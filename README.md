@@ -64,4 +64,7 @@ My projects focus on applying data-driven and deep learning approaches to solve 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/MonyetttRindam
+[![LinkedIn](https://img.icons8.com/ios-filled/28/000000/linkedin.png)](https://www.linkedin.com/in/muhammadabilkhoirii/)
+[![Instagram](https://img.icons8.com/ios-filled/28/000000/instagram.png)](https://www.instagram.com/abill.kh/)
+[![GitHub](https://img.icons8.com/ios-filled/28/000000/github.png)](https://github.com/MonyetttRindam)
+
