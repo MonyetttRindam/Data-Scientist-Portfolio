@@ -1,0 +1,21 @@
+[submodule "Machine Learning/Machine-Learning-Challenge-MBC-Digilearn-2025"]
+	path = Machine Learning/Machine-Learning-Challenge-MBC-Digilearn-2025
+	url = https://github.com/MonyetttRindam/Machine-Learning-Challenge-MBC-Digilearn-2025.git
+[submodule "Deep Learning/Computer Vision/Project-MNIST"]
+	path = Deep Learning/Computer Vision/Project-MNIST
+	url = https://github.com/MonyetttRindam/Project-MNIST-with-Streamlit.git
+[submodule "Deep Learning/Computer Vision/Flood Segmentation Using U-Net vs Resnet U-Net Encoder"]
+	path = Deep Learning/Computer Vision/Flood Segmentation Using U-Net vs Resnet U-Net Encoder
+	url = https://github.com/MonyetttRindam/floodsegmentation.git
+[submodule "Deep Learning/Computer Vision/Food-101 Classifier using CNN"]
+	path = Deep Learning/Computer Vision/Food-101 Classifier using CNN
+	url = https://github.com/MonyetttRindam/food101.git
+[submodule "Deep Learning/Computer Vision/Cats Vs Dogs Using CNN"]
+	path = Deep Learning/Computer Vision/Cats Vs Dogs Using CNN
+	url = https://github.com/MonyetttRindam/CatsvsDogs.git
+[submodule "Deep Learning/NLP/Analisis Sentimen Komentar IG terhadap kasus Tom Lembong menggunakan Bert"]
+	path = Deep Learning/NLP/Analisis Sentimen Komentar IG terhadap kasus Tom Lembong menggunakan Bert
+	url = https://github.com/MonyetttRindam/tomlembong.git
+[submodule "Project Bootcamp/Project-Bootcamp-Kelas.com"]
+	path = Project Bootcamp/Project-Bootcamp-Kelas.com
+	url = https://github.com/MonyetttRindam/Project-Bootcamp-Kelas.com.git
