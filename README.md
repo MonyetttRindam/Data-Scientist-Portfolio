@@ -43,15 +43,6 @@ My projects focus on applying data-driven and deep learning approaches to solve 
 
 ---
 
-### 🐶 Cats vs Dogs Classification using CNN
-- **Category**: Computer Vision  
-- **Task**: Binary image classification  
-- **Model**: CNN  
-- **Repository**:  
-  👉 https://github.com/MonyetttRindam/CatsvsDogs
-
----
-
 
 ## 🛠️ Technical Skills
 - **Programming**: Python  
