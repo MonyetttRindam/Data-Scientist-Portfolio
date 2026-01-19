@@ -33,19 +33,6 @@ My projects focus on applying data-driven and deep learning approaches to solve 
 
 ---
 
-### 🔢 MNIST Digit Classification with Streamlit
-- **Category**: Computer Vision  
-- **Task**: Handwritten digit classification  
-- **Model**: CNN  
-- **Deployment**: Streamlit Web App  
-- **Highlights**:
-  - End-to-end ML pipeline
-  - Interactive prediction interface  
-- **Repository**:  
-  👉 https://github.com/MonyetttRindam/Project-MNIST-with-Streamlit
-
----
-
 ### 🍔 Food-101 Image Classification using CNN
 - **Category**: Computer Vision  
 - **Task**: Multi-class food image classification  
@@ -56,31 +43,6 @@ My projects focus on applying data-driven and deep learning approaches to solve 
 
 ---
 
-### 🐶 Cats vs Dogs Classification using CNN
-- **Category**: Computer Vision  
-- **Task**: Binary image classification  
-- **Model**: CNN  
-- **Repository**:  
-  👉 https://github.com/MonyetttRindam/CatsvsDogs
-
----
-
-## 🤖 Machine Learning & Bootcamp Projects
-
-### 📈 Machine Learning Challenge – MBC Digilearn 2025
-- **Focus**: Supervised & Unsupervised Learning
-- **Topics**: Feature Engineering, Model Evaluation, Optimization  
-- **Repository**:  
-  👉 https://github.com/MonyetttRindam/Machine-Learning-Challenge-MBC-Digilearn-2025
-
----
-
-### 🎓 Project Bootcamp – Kelas.com
-- **Focus**: End-to-end data & ML project  
-- **Repository**:  
-  👉 https://github.com/MonyetttRindam/Project-Bootcamp-Kelas.com
-
----
 
 ## 🛠️ Technical Skills
 - **Programming**: Python  
@@ -93,5 +55,7 @@ My projects focus on applying data-driven and deep learning approaches to solve 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/MonyetttRindam
+[![LinkedIn](https://img.icons8.com/ios-filled/28/000000/linkedin.png)](https://www.linkedin.com/in/muhammadabilkhoirii/)
+[![Instagram](https://img.icons8.com/ios-filled/28/000000/instagram.png)](https://www.instagram.com/abill.kh/)
+[![GitHub](https://img.icons8.com/ios-filled/28/000000/github.png)](https://github.com/MonyetttRindam)
 
